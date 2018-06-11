@@ -1,0 +1,11 @@
+C:\Users\Oved-LT\source\repos\WebApp1\WebApp1\bin\Debug\netcoreapp2.0\WebApp1.deps.json
+C:\Users\Oved-LT\source\repos\WebApp1\WebApp1\bin\Debug\netcoreapp2.0\WebApp1.runtimeconfig.json
+C:\Users\Oved-LT\source\repos\WebApp1\WebApp1\bin\Debug\netcoreapp2.0\WebApp1.runtimeconfig.dev.json
+C:\Users\Oved-LT\source\repos\WebApp1\WebApp1\bin\Debug\netcoreapp2.0\WebApp1.dll
+C:\Users\Oved-LT\source\repos\WebApp1\WebApp1\bin\Debug\netcoreapp2.0\WebApp1.pdb
+C:\Users\Oved-LT\source\repos\WebApp1\WebApp1\obj\Debug\netcoreapp2.0\WebApp1.csprojAssemblyReference.cache
+C:\Users\Oved-LT\source\repos\WebApp1\WebApp1\obj\Debug\netcoreapp2.0\WebApp1.csproj.CoreCompileInputs.cache
+C:\Users\Oved-LT\source\repos\WebApp1\WebApp1\obj\Debug\netcoreapp2.0\WebApp1.AssemblyInfoInputs.cache
+C:\Users\Oved-LT\source\repos\WebApp1\WebApp1\obj\Debug\netcoreapp2.0\WebApp1.AssemblyInfo.cs
+C:\Users\Oved-LT\source\repos\WebApp1\WebApp1\obj\Debug\netcoreapp2.0\WebApp1.dll
+C:\Users\Oved-LT\source\repos\WebApp1\WebApp1\obj\Debug\netcoreapp2.0\WebApp1.pdb
